@@ -1,0 +1,11 @@
+j:\visual studio 2015\Projects\WindowsApplication7\bin\Debug\WindowsApplication7.exe.config
+j:\visual studio 2015\Projects\WindowsApplication7\obj\Debug\WindowsApplication7.vbprojResolveAssemblyReference.cache
+j:\visual studio 2015\Projects\WindowsApplication7\obj\Debug\WindowsApplication7.Pong.resources
+j:\visual studio 2015\Projects\WindowsApplication7\obj\Debug\WindowsApplication7.Resources.resources
+j:\visual studio 2015\Projects\WindowsApplication7\obj\Debug\WindowsApplication7.vbproj.GenerateResource.Cache
+j:\visual studio 2015\Projects\WindowsApplication7\obj\Debug\WindowsApplication7.xml
+j:\visual studio 2015\Projects\WindowsApplication7\bin\Debug\WindowsApplication7.exe
+j:\visual studio 2015\Projects\WindowsApplication7\bin\Debug\WindowsApplication7.pdb
+j:\visual studio 2015\Projects\WindowsApplication7\bin\Debug\WindowsApplication7.xml
+j:\visual studio 2015\Projects\WindowsApplication7\obj\Debug\WindowsApplication7.exe
+j:\visual studio 2015\Projects\WindowsApplication7\obj\Debug\WindowsApplication7.pdb
